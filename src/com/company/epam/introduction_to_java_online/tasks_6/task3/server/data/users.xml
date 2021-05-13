@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="15.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="com.company.epam.introduction_to_java_online.tasks_6.task3.server.users.User">
+    <void property="admin">
+     <boolean>true</boolean>
+    </void>
+    <void property="firstName">
+     <string>Ivan</string>
+    </void>
+    <void property="lastName">
+     <string>Petrov</string>
+    </void>
+    <void property="login">
+     <string>ipetrov</string>
+    </void>
+    <void property="pass">
+     <string>25D55AD283AA400AF464C76D713C07AD</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.company.epam.introduction_to_java_online.tasks_6.task3.server.users.User">
+    <void property="firstName">
+     <string>Petr</string>
+    </void>
+    <void property="lastName">
+     <string>Ivanov</string>
+    </void>
+    <void property="login">
+     <string>pivanov</string>
+    </void>
+    <void property="pass">
+     <string>5E8667A439C68F5145DD2FCBECF02209</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="15.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="com.company.epam.introduction_to_java_online.tasks_6.task3.server.students.Student">
+    <void property="id">
+     <int>1</int>
+    </void>
+    <void property="name">
+     <string>Alex</string>
+    </void>
+    <void property="surName">
+     <string>Smith</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.company.epam.introduction_to_java_online.tasks_6.task3.server.students.Student">
+    <void property="id">
+     <int>2</int>
+    </void>
+    <void property="name">
+     <string>sadsa</string>
+    </void>
+    <void property="surName">
+     <string>Smasdsadsah</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.company.epam.introduction_to_java_online.tasks_6.task3.server.students.Student">
+    <void property="id">
+     <int>3</int>
+    </void>
+    <void property="name">
+     <string>SADasd</string>
+    </void>
+    <void property="surName">
+     <string>asdsad</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
