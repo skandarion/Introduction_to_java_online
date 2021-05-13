@@ -1,0 +1,17 @@
+[
+  {
+    "bookName": "Crime and Punishment",
+    "author": "Dostoyevskiy",
+    "typeOfBook": "eBook"
+  },
+  {
+    "bookName": "Master and Margaret",
+    "author": "Dostoyevskiy",
+    "typeOfBook": "paperBook"
+  },
+  {
+    "bookName": "I Robor",
+    "author": "Azimov",
+    "typeOfBook": "paperBook"
+  }
+]

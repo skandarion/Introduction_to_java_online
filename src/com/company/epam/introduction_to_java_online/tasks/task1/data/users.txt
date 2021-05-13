@@ -1,0 +1,16 @@
+[
+  {
+    "FirstName": "Aleksandr",
+    "LastName": "Gatilov",
+    "login": "skandar",
+    "pass": "25D55AD283AA400AF464C76D713C07AD",
+    "isAdmin": true
+  },
+  {
+    "FirstName": "Lubov",
+    "LastName": "Dubrovskaya",
+    "login": "dub7",
+    "pass": "D79C8788088C2193F0244D8F1F36D2DB",
+    "isAdmin": false
+  }
+]
