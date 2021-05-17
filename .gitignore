@@ -1,3 +1,5 @@
 # Project exclude paths
 /out/
 /src/com/company/epam/introduction_to_java_online/tasks_6/task1/entity/temp/
+
+*.iml
